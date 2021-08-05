@@ -1,7 +1,7 @@
 # latex_GA
 This is a template repository for compiling latex documents with Github Actions.
 
-[Download the latest release (pdf)](https://github.com/remdelaportemathurin/phdthesis/releases/latest/download/main.pdf)
+[Download the latest release (pdf)](https://github.com/remdelaportemathurin/latex_GA/releases/latest/download/main.pdf)
 
 To compile locally simply run:
 
